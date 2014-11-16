@@ -5,3 +5,4 @@ public class Cruiser extends AbstractShip
 {
 
 }
+ 

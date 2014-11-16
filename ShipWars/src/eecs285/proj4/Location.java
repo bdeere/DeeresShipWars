@@ -10,7 +10,7 @@ public class Location
   Location(int inX, int inY)
   {
 	x = inX;
-	y = inY;
+	y = inY; 
   }
   
   public static double getDistanceBetween(Location a, Location b)
