@@ -11,7 +11,7 @@ public class Aircraft extends AbstractShip
 
   public boolean isMoveHit(Location Move)
   {
-	if()
+    
 		
-  }jjd
+  }
 }
