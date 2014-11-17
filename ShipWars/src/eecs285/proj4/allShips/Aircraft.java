@@ -3,15 +3,22 @@ import eecs285.proj4.*;
 
 public class Aircraft extends AbstractShip
 {
+ 
   
-  Aircraft(Location inStart, Location endStart)
+  private static Location first;
+  private static Location second;
+
+  Aircraft()
   {
-	super();
+    super(first, second); 
   }
 
+  @Override
   public boolean isMoveHit(Location Move)
   {
-    
-		
+    // TODO Auto-generated method stub
+    return false;
   }
+
+
 }
