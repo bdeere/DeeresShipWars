@@ -17,7 +17,7 @@ public class MainGUI extends JFrame {
 		back.setLayout(new FlowLayout());
 	    setLayout(new BoxLayout(getContentPane(), BoxLayout.PAGE_AXIS));
 	    JLabel shiplabel = new JLabel("Ships available");
-	    
+	    //fdasdfasd
 		
 	}
 
