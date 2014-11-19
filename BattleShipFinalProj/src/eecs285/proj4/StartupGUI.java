@@ -69,7 +69,7 @@ public class StartupGUI extends JFrame
 	  finalb.add(subt);
 	  finalb.add(bottom);
 	  back.add(finalb);
-	  setContentPane(back);
+	  setContentPane(back); 
 	  
 	  login.addActionListener(new LoginListener());
 	  signup.addActionListener(new SignupListener());
